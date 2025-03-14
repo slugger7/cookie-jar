@@ -6,6 +6,6 @@
     "description": "Swaps out tracking cookies at random with other users cookies",
 
     "icons": {
-        "48": "icons/cookie-jar.png"
+        "48": "icons/cookie.png"
     }
 }
